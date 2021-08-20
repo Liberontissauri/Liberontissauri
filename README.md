@@ -1,6 +1,6 @@
 <img src="cover.jpg"></img>
 <h1 align="center">
-Hey!
+HeyHey!
 </h1>
   
 <p align="center">
